@@ -1,14 +1,4 @@
-# DataMining-D4 Teknik Informatika 3A
-Data Mining D4 Teknik Informatika 3A
-
-Nama : Rizaluardi Achmad Pratama
-
-NPM : 1184102
-
-Dosen : Mr Cahyo Prianto, S.Pd., M.T.
-
-
-## Basic R Untuk Materi Data Mining Pertemuan 1
+# Basic R Untuk Materi Data Mining Pertemuan 1
 R console
 
 
