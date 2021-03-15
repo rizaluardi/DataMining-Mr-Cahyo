@@ -2,7 +2,7 @@
 R console
 
 
-Input variabel 
+## Input variabel 
 ```
 angka1 = 100
 angka2 = 200
@@ -15,7 +15,7 @@ print(angka2)
 angka1
 ```
 
-Penggunaaan Variabel
+## Penggunaaan Variabel
 ```
 .... = 100 #Benar
 _angka = 100 #Salah
@@ -25,7 +25,7 @@ angka_pertama = 100 #Benar
 a1a = 100 #Benar
 ```
 
-Pengkonversian
+## Pengkonversian
 Contoh dari numeric ke character atau sebaliknya
 ```
 a = 400
@@ -36,16 +36,14 @@ c = as.numeric(b)
 print(c)
 ```
 
-Typeof
-
+## Typeof
 typeof digunakan untuk mengetahui type data apa
 ```
 typeof(a)
 typeof(b)
 ```
 
-Boolean
-
+## Boolean
 boolean digunakan untuk mengetahui nilai TRUE atau FALSE
 ```
 d = TRUE
@@ -61,14 +59,13 @@ e & f
 d | e | f #or
 ```
 
-Fungsi ls()
-
+## Fungsi ls()
 Untuk mengetahui variabel apa saja yang dimasukkan
 ```
 ls()
 ```
 
-Type Data
+## Type Data
 ```
 a = "KampusBiner" #Character
 b = 100 #numeric-double
@@ -76,7 +73,7 @@ c = 100L #integer
 d = 100i #Complex
 ```
 
-Perintah Comment
+## Perintah Comment
 ```
 #Ini adalah comment
 ```
